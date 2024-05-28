@@ -16,4 +16,4 @@ jobs:
         uses: actions/checkout@v2
       
       - name: Run custom action
-        uses: ./ 
+        uses: 
