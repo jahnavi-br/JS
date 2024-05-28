@@ -1,0 +1,14 @@
+name: 'Hi'
+
+on:
+  push:
+    branches: 
+      - 'master'
+  pull_request: 
+    branches: 
+      - 'master'
+  
+runs:
+  using: 'node12'
+  main: 'JS/hi.js'
+
