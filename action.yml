@@ -10,5 +10,5 @@ on:
   
 runs:
   using: 'node12'
-  main: 'JS/hi.js'
+  main: 'src/hi.js'
 
